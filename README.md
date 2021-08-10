@@ -10,3 +10,5 @@ En este repositorio se encuentra el código de ejemplo mostrado en el informe y 
 
 Para hacer uso de esto se debe tener instalado un un manejador de paquetes como yarn o npm.
 El detalle del uso se encuetra explicado en el informe.
+
+edit for jenkins
